@@ -9,13 +9,13 @@ profile:
   image: profile_sqrt.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Aalto University School of Business;</p>
+    <p>Aalto University;</p>
     <p>ISM Department;</p>
     <p>Espoo, Finland.</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently a PhD student at the [Department of Information and Service Management](https://www.aalto.fi/en/department-of-information-and-service-management) at [Aalto University School of Business](https://www.aalto.fi/en/school-of-business). 
