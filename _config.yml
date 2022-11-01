@@ -2,7 +2,7 @@
 #
 
 # Site Settings
-title: blank # the website title (if blank, full name will be used instead)
+title: Zhiqiang Liao # the website title (if blank, full name will be used instead)
 first_name: Zhiqiang
 middle_name: 
 last_name: Liao
@@ -102,7 +102,7 @@ contact_note: >
 google_analytics: G-QNQPHZDYMM # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: MWxVJ-7ICcWZes6Gbur6JkP2KDVCXt-K5ruRZt1u-yY # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
