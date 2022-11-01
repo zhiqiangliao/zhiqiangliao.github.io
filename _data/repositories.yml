@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zhiqiangliao
+  - ds2010
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ds2010/pyStoNED
+  - ds2010/CSVR

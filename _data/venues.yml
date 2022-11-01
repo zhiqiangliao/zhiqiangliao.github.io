@@ -3,4 +3,20 @@
 
 "ESWA":
   url: https://www.sciencedirect.com/journal/expert-systems-with-applications
-  color: "#00369f"
+  color: "#36BEC1"
+
+"INFU":
+  url: https://www.sciencedirect.com/journal/information-fusion
+  color: "#A8C0C3"
+
+"ITOR":
+  url: https://onlinelibrary.wiley.com/journal/14753995
+  color: "#FADC37"
+
+"ECECSR":
+  url: https://www.scimagojr.com/journalsearch.php?q=30232&tip=sid
+  color: "#F8963E"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#C30707"
