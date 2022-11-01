@@ -5,7 +5,7 @@ permalink: /teaching/
 description: My Teaching Experience At University
 nav: true
 nav_order: 4
-display_categories: [bachelor, master]
+display_categories: [Bachelor, Master]
 horizontal: true
 ---
 
