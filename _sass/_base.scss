@@ -436,7 +436,7 @@ footer.sticky-bottom {
   }
 
   .card-item {
-    width: auto;
+    width: calc(max(30%, 300px));
     margin-bottom: 10px;
 
     .row {
@@ -446,7 +446,7 @@ footer.sticky-bottom {
   }
 
   .grid-sizer, .grid-item {
-    width: 250px;
+    width: calc(max(30%, 300px));
     margin-bottom: 10px;
   }
 

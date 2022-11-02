@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: GITHUB
+title: REPO
 description: Open Source Projects.
 nav: true
 nav_order: 3
 ---
 
-## GitHub users
+## GitHub Homepage
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
