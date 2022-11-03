@@ -7,4 +7,4 @@ importance: 1
 category: Bachelor
 ---
 
-I worked as a teaching asistant of the course.
+I worked as a teaching assistant of the course.
