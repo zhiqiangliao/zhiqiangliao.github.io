@@ -99,10 +99,10 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-QNQPHZDYMM # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-P5FD43BEEQ # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: MWxVJ-7ICcWZes6Gbur6JkP2KDVCXt-K5ruRZt1u-yY # your google-site-verification ID (Google Search Console)
+google_site_verification: 2roCyCaRjD8C7q3Aj_fL_fYvfFfYTOhrkKmCf9rW2P4 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -198,7 +198,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: false
+      sitemap: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
