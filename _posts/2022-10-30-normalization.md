@@ -2,7 +2,7 @@
 layout: post
 title:  How to do normalization in MC simulations?
 date:   2022-10-30 16:40:16
-description: Statistics & Computer science
+description: Statistics
 tags: math code
 categories: Research
 ---
