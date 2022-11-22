@@ -5,6 +5,7 @@ date:   2022-10-30 16:40:16
 description: Statistics
 tags: math code
 categories: Research
+comments: true
 ---
 Normalization usually helps accelarate convergence of algorithm.
 

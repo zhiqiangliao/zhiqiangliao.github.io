@@ -17,12 +17,6 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <!-- id as the query condition -->
-    <span id="<Your/Path/Name>" class="leancloud-visitors" data-flag-title="Your Article Title">
-      
-      <i class="leancloud-visitors-count">1000000</i>
-      <em class="post-meta-item-text">views  </em>
-    </span>
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
     <p class="post-tags">
       <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}"> <i class="fas fa-calendar fa-sm"></i> {{ year }} </a>
@@ -63,33 +57,5 @@ layout: default
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   {%- endif %}
-  
-  <br>
-  <hr>
-
-  <head>
-    Leave your comments here:
-    <script src="{{'/assets/js/Valine.min.js' | relative_url }}"></script>
-    
-  </head>
-
-  <body>
-      
-    <div id="vcomment"></div>
-    <script>
-
-        new Valine({
-            el: '#vcomment' ,
-            appId: 'OUXOSxZufwAdDMAgS5VpfnNb-MdYXbMMI',
-            appKey: 'qnTC04bfUGgiNa89eFI5FVok',
-            avatar:'retro',
-            lang:'en',
-            meta:['nick','mail'],
-            visitor: true,
-            requiredFields: ['nick']
-        })
-    </script>
-
-  </body>
 
 </div>
