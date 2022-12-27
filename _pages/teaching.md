@@ -2,7 +2,7 @@
 layout: page
 title: TEACHING
 permalink: /teaching/
-description: My Teaching Experience At University
+description: My Teaching Experience 
 nav: true
 nav_order: 4
 display_categories: [Bachelor, Master]
