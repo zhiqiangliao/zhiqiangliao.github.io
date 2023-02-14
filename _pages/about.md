@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a PhD student at the [Department of Information and Service Management](https://www.aalto.fi/en/department-of-information-and-service-management) at [Aalto University School of Business](https://www.aalto.fi/en/school-of-business). 
 
-My research interests focus on Statistical Machine Learning, Production Economics, and Nonparametric econometrics. I am also interested in their applications to electricity market, energy and sustainble development.
+My research interests focus on Statistical Machine Learning, Production Economics, and Nonparametric Regression. I am also interested in their applications to electricity market, energy and sustainable development.
 
 Before joining Aalto BIZ, I obtained my master degree in Business school at [Sichuan University](https://en.scu.edu.cn/). My master thesis was entitled "Fuzzy support vector machine for preference learning and its application".
 
