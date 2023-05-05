@@ -63,11 +63,11 @@
     - title: Convex Regression.
       items: 
         - Overfitting Problem.
-        - Computational Framework.
+        - Nonparametric Statistics.
     - title: Statistical Machine Learning.
       items:
-        - Large-scale Data.
-        - Explainable Models.
+        - High dimensional Data.
+        - Prediction Models.
 
 - title: Other Interests
   type: list

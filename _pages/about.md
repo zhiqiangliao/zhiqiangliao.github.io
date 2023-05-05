@@ -24,4 +24,4 @@ My research interests focus on Statistical Machine Learning, Production Economic
 
 Before joining Aalto BIZ, I obtained my master degree in Business school at [Sichuan University](https://en.scu.edu.cn/). My master thesis was entitled "Fuzzy support vector machine for preference learning and its application".
 
-Here you can find my [publications page](/publications/) and my [CV](/cv/). Please feel free to contact me.
+Here you can find my [publications page](/publications/) and my [CV](/cv/). Feel free to reach out.
