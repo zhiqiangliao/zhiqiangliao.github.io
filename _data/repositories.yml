@@ -2,6 +2,7 @@ github_users:
   - zhiqiangliao
 
 github_repos:
+  - ConvexRegression/cvxreg
+  - gEAPA/pySFA
   - ds2010/pyStoNED
   - ds2010/CSVR
-  - gEAPA/pySFA
