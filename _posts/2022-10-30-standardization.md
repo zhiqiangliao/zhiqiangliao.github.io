@@ -5,7 +5,7 @@ date:   2022-10-30 16:40:16
 description: Statistics & Machine learning
 tags: math code # math, github, code, essay (in yml file)
 categories: Research
-comments: true
+giscus_comments: true
 ---
 Normalization usually helps accelarate convergence of algorithm.
 
