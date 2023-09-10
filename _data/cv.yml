@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Zhiqiang Liao
-    - name: Date of Birth
-      value: 12th November 1995
+    - name: Email
+      value: zhiqiang.liao@aalto.fi
     - name: Languages
       value: Chinese, English
 
@@ -28,27 +28,54 @@
         - M.S. in Industrial Engineering
         - School of Business
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Master Supervisor
-      institution: Aalto University, Finland
-      year: 2022
-      description: 
-        - Working as a thesis advisor.
-        - title: Students
-          contents:
-            - Kalle Laaksonen
-
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/ConvexRegression/cvxreg">cvxreg</a>
+      year: 2023-now
+      description: A Python package that provides functions for convex regression.
+    - title: <a href="https://github.com/gEAPA/pySFA">pySFA</a>
+      year: 2021-now
+      description: A Python package that provides functions for stochastic frontier analysis.
     - title: <a href="https://github.com/ds2010/pyStoNED">pyStoNED</a>
       year: 2021-now
       description: A Python package that provides functions for nonparametric regression.
-    - title: <a href="https://github.com/ds2010/CSVR">CSVR</a>
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Datas science for business II
+      institution: Aalto University, Finland
+      year: 2023
+      description:
+        - Introduction to Data Science (Master's level)
+        - title: Responsibilities
+          contents:
+            - Assisting in the development of course materials.
+            - Giving lectures on the introduction to convex regression.
+            - Designing the assignments on CNN.
+            - Live tutorial sessions.
+            - Grading assignments and exams.
+    - title: Econometrics
+      institution: Aalto University, Finland
       year: 2022
-      description: A github repository that contains python codes for MC simulations and experiments in my paper <a href="https://arxiv.org/abs/2209.12538">Convex Support Vector Regression</a>.
+      description:
+        - Introduction to Econometrics (Bachelor's level)
+        - title: Responsibilities
+          contents:
+            - Assisting in the development of course materials.
+            - Live tutorial sessions.
+            - Grading assignments.
+    - title: Master thesis siminar
+      institution: Aalto University, Finland
+      year: 2022
+      description:
+        - Master thesis seminar (Master's level)
+        - title: Responsibilities
+          contents:
+            - Assisting the department with the organization of the seminar.
+            - Designing the syllabus.
+            - Developing the course homepage.
 
 - title: Honors and Awards
   type: time_table
