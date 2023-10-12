@@ -35,7 +35,7 @@
       year: 2023-now
       description: A Python package that provides functions for convex regression.
     - title: <a href="https://github.com/gEAPA/pySFA">pySFA</a>
-      year: 2021-now
+      year: 2023-now
       description: A Python package that provides functions for stochastic frontier analysis.
     - title: <a href="https://github.com/ds2010/pyStoNED">pyStoNED</a>
       year: 2021-now
@@ -44,7 +44,7 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Datas science for business II
+    - title: Data science for business II
       institution: Aalto University, Finland
       year: 2023
       description:
@@ -54,7 +54,7 @@
             - Assisting in the development of course materials.
             - Giving lectures on the introduction to convex regression.
             - Designing the assignments on CNN.
-            - Live tutorial sessions.
+            - Recorded tutorial sessions.
             - Grading assignments and exams.
     - title: Econometrics
       institution: Aalto University, Finland
@@ -66,7 +66,7 @@
             - Assisting in the development of course materials.
             - Live tutorial sessions.
             - Grading assignments.
-    - title: Master thesis siminar
+    - title: Master thesis seminar
       institution: Aalto University, Finland
       year: 2022
       description:
