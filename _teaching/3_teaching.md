@@ -7,4 +7,10 @@ importance: 2
 category: Master
 ---
 
-I am the teaching assistant of the course.
+This is the video for the first lecture "Introduction to convex regression" in Data science for business II.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://www.youtube.com/embed/a8rd2THamLA?si=88EmWGfAXv4qOj0A" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
