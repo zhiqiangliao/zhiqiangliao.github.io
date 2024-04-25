@@ -41,7 +41,7 @@ The StandardScaler is used for standardizing scores on the same scale where the 
 
 # Python code
 import numpy as np
-x = (x - np.mean(x, axis=0))/np.linalg.norm(x, axis=0)
+x = (x - np.mean(x, axis=0))/np.std(X, axis=0)
 y = y/np.linalg.norm(y)
 
 {% endhighlight %}
