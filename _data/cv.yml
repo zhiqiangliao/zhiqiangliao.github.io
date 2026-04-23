@@ -4,18 +4,17 @@
     - name: Full Name
       value: Zhiqiang Liao
     - name: Email
-      value: zhiqiang.liao@aalto.fi
+      value: zhiqiangliao@bnbu.edu.cn
     - name: Languages
       value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: Doctoral Candidate
+    - title: PhD in Management Science
       institution: Aalto University, Finland
-      year: 2021 - present
+      year: 2021 - 2025
       description:
-        - Doctoral Candidate in Management Science.
         - School of Business, Department of Information and Service Management.
         - title: Supervisors
           contents:
@@ -28,9 +27,21 @@
         - M.S. in Industrial Engineering
         - School of Business
 
+- title: Working Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor
+      institution: Beijing Normal-Hong Kong Baptist University, China
+      year: 2025 - present
+      description:
+        - School of Business and Decision Sciences.
+
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/BA3083-MCDM">BA3083-MCDM</a>
+      year: 2025-now
+      description: Teaching projects for Multiple Criteria Decision Making.
     - title: <a href="https://github.com/ConvexRegression/cvxreg">cvxreg</a>
       year: 2023-now
       description: A Python package that provides functions for convex regression.
@@ -44,6 +55,18 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: Artificial Intelligence and Deep Learning
+      institution: Beijing Normal-Hong Kong Baptist University, China
+      year: 2025 - present
+    - title: Business Analytics
+      institution: Beijing Normal-Hong Kong Baptist University, China
+      year: 2025 - present
+    - title: Simulation and Risk Analysis
+      institution: Beijing Normal-Hong Kong Baptist University, China
+      year: 2025 - present
+    - title: Multiple Criteria Decision Making
+      institution: Beijing Normal-Hong Kong Baptist University, China
+      year: 2025 - present
     - title: Data science for business II
       institution: Aalto University, Finland
       year: 2023
